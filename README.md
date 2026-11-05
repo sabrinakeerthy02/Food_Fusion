@@ -100,12 +100,12 @@ External image resources are used to make the website visually attractive. These
 
 📂 Project Structure
 
-FoodFusion/
-│
-├── index.html
-├── style.css
-├── image.jpeg
-└── video.mp4
+FoodFusion:
+
+─ index.html
+─ style.css
+─ image.jpeg
+─ video.mp4
 
 🎯 Learning Outcomes
 
@@ -122,7 +122,9 @@ Through this project, I learned:
 👩‍💻 Developer
 
 Name: Sabrina Sultana Rikita
+
 Department: Computer and Communication Engineering (CCE)
+
 University: International Islamic University Chittagong (IIUC)
 ⸻
 
