@@ -48,15 +48,8 @@ The main purpose of this project is to practice HTML structure, CSS styling, nav
 * width – Sets image width.
 * height – Sets image height.
 
-4. Book a Table Section
 
-* <section> – Creates a separate content section.
-* <div> – Groups related elements.
-* <h1>,<h2>,<h3>– Defines headings.
-* <p>– Displays paragraphs.
-* <button>- Creates a clickable button.
-
-5. External Resources
+4. External Resources
 
 External image resources are used to make the website visually attractive. These may include food images, restaurant-related pictures, and cutlery images.
 
