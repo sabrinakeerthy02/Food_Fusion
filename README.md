@@ -126,6 +126,6 @@ Name: Sabrina Sultana Rikita
 Department: Computer and Communication Engineering (CCE)
 
 University: International Islamic University Chittagong (IIUC)
-⸻
+
 
 ⭐ Thank you for visiting my Food_Fusion project!
