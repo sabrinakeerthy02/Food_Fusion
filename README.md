@@ -52,9 +52,9 @@ The main purpose of this project is to practice HTML structure, CSS styling, nav
 
 * <section> – Creates a separate content section.
 * <div> – Groups related elements.
-* <h1>, <h2>, <h3> – Defines headings.
-* <p> – Displays paragraphs.
-* <button> – Creates a clickable button.
+* <h1>,<h2>,<h3>– Defines headings.
+* <p>– Displays paragraphs.
+* <button>- Creates a clickable button.
 
 5. External Resources
 
