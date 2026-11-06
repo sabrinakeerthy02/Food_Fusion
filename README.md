@@ -1,4 +1,4 @@
-#🍽️ Food_Fusion 
+# Food_Fusion 🍽️
 Food & Restaurant Website
 
 📌 Project Overview
