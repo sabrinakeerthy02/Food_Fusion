@@ -95,7 +95,6 @@ External image resources are used to make the website visually attractive. These
 📂 Project Structure
 
 FoodFusion:
-
 ─ index.html
 ─ style.css
 ─ image.jpeg
